@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# .NET
+*.nupkg
+*.snupkg
+project.lock.json
+project.assets.json
+artifacts/
+
+# Logs
+*.log
+
+# Local database files
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# OS files
+Thumbs.db
+Desktop.ini
